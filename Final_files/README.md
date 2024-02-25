@@ -1,1 +1,1 @@
-Check Documents in Project Document folder
+Katalon project files
